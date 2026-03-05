@@ -35,11 +35,11 @@ rssLimit = 10
 copyright = "2026"
 enableEmoji = true
 
-#[services]
+[services]
 #  [services.disqus]
 #    shortname = ''
-#  [services.googleAnalytics]
-#    id = ''
+  [services.googleAnalytics]
+    id = 'G-7GDFLFCLDH'
 
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
