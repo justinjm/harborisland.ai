@@ -1,4 +1,4 @@
-baseURL = "https://www.harborisland.ai"
+baseURL = "https://harborisland.ai"
 #defaultContentLanguage = "en"
 #defaultContentLanguageInSubdir = true
 theme = "hermit-V2"
