@@ -84,7 +84,7 @@ expiryDate = ["expiryDate"]
   themeColor = "#494f5c"
   accentColor = "#018472"
 
-  #homeSubtitle = "CHANGE ME HOME SUBTITLE"
+  homeSubtitle = "Building AI solutions to solve real business challenges."
   footerCopyright = "2026"
   # footerHideThemeName = false
   # bgImg = ""
