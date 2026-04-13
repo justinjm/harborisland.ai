@@ -146,13 +146,15 @@ expiryDate = ["expiryDate"]
   [[menu.main]]
     name = "About"
     url = "/about-us/"
-    weight = 20
+    weight = 10
     
   [[menu.main]]
     name = "Services"
     url = "/services/"
     weight = 10
 
-
-
+  [[menu.main]]
+    name = "Contact Us"
+    url = "/contact/"
+    weight = 10
 
